@@ -14,5 +14,5 @@ Windows ONLY!!!!!!
 需要[DotNet runtime 3.1](https://dotnet.microsoft.com/zh-cn/download/dotnet/3.1/runtime?cid=getdotnetcore)
 
 [TRPEFontGen](https://github.com/chi-rei-den/TRPEFontGen)
-用于生成游戏字体
+用于生成游戏字体(似乎已经失效)
 
